@@ -32,53 +32,47 @@ Reach me at deepeshharshan@gmail.com
 
 ## Tech I Use
 
-**Languages**
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql&theme=dark" />
+<div align="center">
 
-**Frontend**
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=gunicorn&logoColor=white)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=socket.io&logoColor=white)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=alembic&logoColor=white)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=amazonec2&logoColor=FF9900)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=amazons3&logoColor=FF9900)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=terraform&logoColor=844FBA)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=aquasecurity&logoColor=1904DA)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=npm&logoColor=CB3837)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=pypi&logoColor=3775A9)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=themoviedatabase&logoColor=01B4E4)
 
-**Backend / Server**
-<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" />
-
-**Database**
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" />
-
-**ORM**
-<img src="https://skillicons.dev/icons?i=sqlalchemy&theme=dark" />
-
-**Authentication**
-<img src="https://skillicons.dev/icons?i=jwt&theme=dark" />
-
-**DevOps**
-<img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" />
-
-**VCS**
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-
-**CI/CD**
-<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" />
-
-**Cloud**
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
-
-**Infrastructure as Code**
-<img src="https://skillicons.dev/icons?i=terraform&theme=dark" />
-
-**Code Quality & Security**
-<img src="https://skillicons.dev/icons?i=sonarqube&theme=dark" />
-
-**API Testing**
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" />
-
-**Design**
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-
-**Package Managers**
-<img src="https://skillicons.dev/icons?i=npm,pypi&theme=dark" />
-
-**AI & ML**
-<img src="https://skillicons.dev/icons?i=openai&theme=dark" />
+</div>
 
 ---
 
