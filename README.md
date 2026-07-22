@@ -34,43 +34,40 @@ Reach me at deepeshharshan@gmail.com
 
 <div align="center">
 
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=gunicorn&logoColor=white)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=socket.io&logoColor=white)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=alembic&logoColor=white)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=jenkins&logoColor=D24939)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=amazonec2&logoColor=FF9900)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=amazons3&logoColor=FF9900)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=terraform&logoColor=844FBA)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=aquasecurity&logoColor=1904DA)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=npm&logoColor=CB3837)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=pypi&logoColor=3775A9)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=themoviedatabase&logoColor=01B4E4)
+<img src="https://cdn.simpleicons.org/python" width="42" height="42" title="Python" />
+<img src="https://cdn.simpleicons.org/javascript" width="42" height="42" title="JavaScript" />
+<img src="https://cdn.simpleicons.org/typescript" width="42" height="42" title="TypeScript" />
+<img src="https://cdn.simpleicons.org/html5" width="42" height="42" title="HTML5" />
+<img src="https://cdn.simpleicons.org/css3" width="42" height="42" title="CSS3" />
+<img src="https://cdn.simpleicons.org/mysql" width="42" height="42" title="SQL" />
+<img src="https://cdn.simpleicons.org/react" width="42" height="42" title="React" />
+<img src="https://cdn.simpleicons.org/nextdotjs" width="42" height="42" title="Next.js" />
+<img src="https://cdn.simpleicons.org/tailwindcss" width="42" height="42" title="Tailwind CSS" />
+<img src="https://cdn.simpleicons.org/fastapi" width="42" height="42" title="FastAPI" />
+<img src="https://cdn.simpleicons.org/flask" width="42" height="42" title="Flask" />
+<img src="https://cdn.simpleicons.org/gunicorn" width="42" height="42" title="Uvicorn (Gunicorn shown)" />
+<img src="https://cdn.simpleicons.org/socketdotio" width="42" height="42" title="Socket.IO" />
+<img src="https://cdn.simpleicons.org/postgresql" width="42" height="42" title="PostgreSQL" />
+<img src="https://cdn.simpleicons.org/sqlite" width="42" height="42" title="SQLite" />
+<img src="https://cdn.simpleicons.org/sqlalchemy" width="42" height="42" title="SQLAlchemy" />
+<img src="https://cdn.simpleicons.org/jsonwebtokens" width="42" height="42" title="JWT" />
+<img src="https://cdn.simpleicons.org/docker" width="42" height="42" title="Docker" />
+<img src="https://cdn.simpleicons.org/linux" width="42" height="42" title="Linux" />
+<img src="https://cdn.simpleicons.org/git" width="42" height="42" title="Git" />
+<img src="https://cdn.simpleicons.org/github" width="42" height="42" title="GitHub" />
+<img src="https://cdn.simpleicons.org/jenkins" width="42" height="42" title="Jenkins" />
+<img src="https://cdn.simpleicons.org/amazonec2" width="42" height="42" title="AWS EC2" />
+<img src="https://cdn.simpleicons.org/amazons3" width="42" height="42" title="Amazon S3" />
+<img src="https://cdn.simpleicons.org/amazoncloudwatch" width="42" height="42" title="CloudWatch" />
+<img src="https://cdn.simpleicons.org/terraform" width="42" height="42" title="Terraform" />
+<img src="https://cdn.simpleicons.org/sonarqube" width="42" height="42" title="SonarQube" />
+<img src="https://cdn.simpleicons.org/trivy" width="42" height="42" title="Trivy" />
+<img src="https://cdn.simpleicons.org/postman" width="42" height="42" title="Postman" />
+<img src="https://cdn.simpleicons.org/figma" width="42" height="42" title="Figma" />
+<img src="https://cdn.simpleicons.org/npm" width="42" height="42" title="npm" />
+<img src="https://cdn.simpleicons.org/pypi" width="42" height="42" title="pip" />
+<img src="https://cdn.simpleicons.org/openai" width="42" height="42" title="Prompt Engineering (OpenAI)" />
+<img src="https://cdn.simpleicons.org/themoviedatabase" width="42" height="42" title="TMDb API" />
 
 </div>
 
