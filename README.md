@@ -3,7 +3,7 @@
 <!-- Optional: add a banner image here -->
 <!-- <img src="your-banner-url.png" width="100%"/> -->
 
-# Hi, I'm Deepesh Harshan 👋
+# Hi, I'm Deepesh Harshan
 ### Frontend-focused Developer | Building clean, scalable web experiences
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+TypeScript+Developer;Building+full-stack+web+apps;Always+learning%2C+always+shipping" alt="Typing SVG" />
@@ -12,17 +12,26 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently building full-stack web apps with **React, Next.js & TypeScript**
-- 🌱 Learning and leveling up in **DevOps (Docker, Jenkins) & code quality tooling**
-- 🎯 Preparing for placements while shipping real projects
-- 🎨 Design-aware development — I use Figma to bridge design & code
-- 💬 Ask me about React, Next.js, or frontend architecture
-- 📫 Reach me: **deepeshharshan@gmail.com**
+### About Me
+
+I build full-stack web applications with React, Next.js, and TypeScript — turning ideas into
+products that actually ship, not just prototypes that sit in a repo.
+
+Right now I'm deep in two parallel tracks: sharpening my DevOps fundamentals with Docker and
+Jenkins, and preparing rigorously for placements — which means I'm not just writing code,
+I'm learning to write code that survives real-world scrutiny.
+
+Design isn't an afterthought for me. I use Figma to bridge the gap between how something
+looks and how it's actually built, which shows in the interfaces I ship.
+
+If you want to talk React internals, Next.js architecture decisions, or how to structure a
+frontend that scales — I'm open to that conversation.
+
+Reach me at deepeshharshan@gmail.com
 
 ---
 
-## 🌐 Connect with Me
+## Connect
 
 <p align="left">
 <a href="https://www.instagram.com/dxeepxsh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
@@ -34,7 +43,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -53,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.shion.dev/api?username=Deepeshharshan&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
@@ -66,7 +75,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Deepeshharshan&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
@@ -74,7 +83,7 @@
 
 ---
 
-## ✍️ Dev Quote
+## Dev Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
@@ -82,7 +91,7 @@
 
 ---
 
-## 🔝 Top Contributed Repo
+## Top Contributed Repo
 
 <img src="https://github-contributor-stats.vercel.app/api?username=Deepeshharshan&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
@@ -92,6 +101,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Deepeshharshan&icon=0&color=1)
 
-<sub>⭐️ Thanks for stopping by — feel free to explore my pinned repos below!</sub>
+<sub>Thanks for stopping by — feel free to explore my pinned repos below.</sub>
 
 </div>
