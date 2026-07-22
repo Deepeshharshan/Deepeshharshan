@@ -107,7 +107,7 @@ Reach me at deepeshharshan@gmail.com
 ## GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Deepeshharshan&theme=onedark&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Deepeshharshan&theme=onedark&column=4" />
 </div>
 
 ---
@@ -115,7 +115,7 @@ Reach me at deepeshharshan@gmail.com
 ## Top Contributed Repository
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepeshharshan&repo=Deepeshharshan&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepeshharshan&repo=Deepeshharshan&theme=dark" />
 </div>
 
 <sub>Swap <code>repo=Deepeshharshan</code> for your actual top project's repo name.</sub>
