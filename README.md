@@ -1,38 +1,35 @@
-<div align="center">
+<h1 align="center">
+  Hey there, I'm <span style="color:#000000;">Deepesh</span>
+</h1>
 
-# Hi, I'm Deepesh Harshan
-### Frontend-focused Developer | Building clean, scalable web experiences
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+TypeScript+Developer;Building+full-stack+web+apps;Always+learning%2C+always+shipping" alt="Typing SVG" />
-
-</div>
-
----
-
-### About Me
-
-Full-stack developer turning ideas into products that ship — not prototypes that sit in a repo.
-Currently sharpening DevOps, cloud, and system design skills while preparing for placements.
-
-Reach me at deepeshharshan@gmail.com
-
----
-
-## Connect
-
-<p align="left">
-<a href="https://www.instagram.com/dxeepxsh" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/deepesh-harshan-1750083ab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.reddit.com/u/deepesh_harshan" target="_blank"><img src="https://img.shields.io/badge/Reddit-000000.svg?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
-<a href="https://x.com/deepeshharshan" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-<a href="mailto:deepeshharshan@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Frontend-Focused+Developer;Full+Stack+Builder;Placement+Prep+in+Progress;Always+Learning%2C+Always+Shipping"/>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Deepeshharshan?style=for-the-badge&logo=github&label=Followers&color=000000" />
+  <img src="https://img.shields.io/github/stars/Deepeshharshan?style=for-the-badge&logo=github&label=Stars&color=000000" />
+  <img src="https://komarev.com/ghpvc/?username=Deepeshharshan&style=for-the-badge&color=000000"/>
+</p>
 
-## Tech I Use
+<h2 align="center">About Me</h2>
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="100%" valign="top">
+
+- Full stack developer turning ideas into products that ship — not prototypes that sit in a repo.
+- Currently sharpening DevOps, cloud, and system design skills while preparing for placements.
+- Building real projects to learn by doing, not just by reading docs.
+- Always chasing the next skill worth picking up.
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
 
 <img src="https://cdn.simpleicons.org/python" width="42" height="42" title="Python" />
 <img src="https://cdn.simpleicons.org/javascript" width="42" height="42" title="JavaScript" />
@@ -67,65 +64,65 @@ Reach me at deepeshharshan@gmail.com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="42" height="42" title="Prompt Engineering (OpenAI)" />
 <img src="https://cdn.simpleicons.org/themoviedatabase" width="42" height="42" title="TMDb API" />
 
-</div>
+</p>
 
----
+<h2 align="center">GitHub Analytics</h2>
 
-## GitHub Stats
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Deepeshharshan&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+</p>
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepeshharshan&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepeshharshan&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact" />
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepeshharshan&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true"/>
+</p>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Deepeshharshan&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff" />
-</div>
+<h2 align="center">Contribution Graph</h2>
 
-### Animated Contribution Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepeshharshan/Deepeshharshan/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepeshharshan/Deepeshharshan/output/dist/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Deepeshharshan/Deepeshharshan/output/dist/github-contribution-grid-snake.svg" alt="Snake animation">
+  </picture>
+</p>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepeshharshan&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&area_color=ffffff" />
-</div>
+<!--
+To enable the snake animation:
+1. Add the .github/workflows/snk.yml workflow to this repo (already provided separately).
+2. It uses Platane/snk to generate the SVG on a schedule.
+3. It auto-commits into the `output` branch — no manual commit needed once set up.
+-->
 
----
+<h2 align="center">Let's Connect</h2>
 
-## Contribution Snake
+<p align="center">
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepeshharshan/Deepeshharshan/output/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepeshharshan/Deepeshharshan/output/dist/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Deepeshharshan/Deepeshharshan/output/dist/github-contribution-grid-snake.svg" />
-</picture>
-</div>
+<a href="https://www.instagram.com/dxeepxsh" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<sub>Renders after the <code>snk.yml</code> workflow has run once and created the <code>output</code> branch.</sub>
+<a href="https://www.linkedin.com/in/deepesh-harshan-1750083ab" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://www.reddit.com/u/deepesh_harshan" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
 
-## GitHub Trophies
+<a href="https://x.com/deepeshharshan" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Deepeshharshan&theme=onedark&column=4" />
-</div>
+<a href="mailto:deepeshharshan@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+</p>
 
-## Top Contributed Repository
+<p align="center">
+See you in the next commit
+</p>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepeshharshan&repo=Deepeshharshan&theme=dark" />
-</div>
-
-<sub>Swap <code>repo=Deepeshharshan</code> for your actual top project's repo name.</sub>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Deepeshharshan&icon=0&color=000000)
-
-<sub>Thanks for stopping by — feel free to explore my pinned repos below.</sub>
-
-</div>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:000000&height=140&section=footer"/>
+</p>
