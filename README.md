@@ -11,18 +11,8 @@
 
 ### About Me
 
-I build full-stack web applications with React, Next.js, and TypeScript — turning ideas into
-products that actually ship, not just prototypes that sit in a repo.
-
-Right now I'm deep in two parallel tracks: sharpening my DevOps fundamentals with Docker and
-Jenkins, and preparing rigorously for placements — which means I'm not just writing code,
-I'm learning to write code that survives real-world scrutiny.
-
-Design isn't an afterthought for me. I use Figma to bridge the gap between how something
-looks and how it's actually built, which shows in the interfaces I ship.
-
-If you want to talk React internals, Next.js architecture decisions, or how to structure a
-frontend that scales — I'm open to that conversation.
+Full-stack developer turning ideas into products that ship — not prototypes that sit in a repo.
+Currently sharpening DevOps, cloud, and system design skills while preparing for placements.
 
 Reach me at deepeshharshan@gmail.com
 
@@ -40,39 +30,99 @@ Reach me at deepeshharshan@gmail.com
 
 ---
 
-## Tech Stack
+## Tech I Use
 
-**Languages & Frameworks**
-![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
+**Languages**
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Platforms**
-![Docker](https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-000000.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-000000.svg?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+
+**Backend / Server**
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-000000?style=for-the-badge&logo=gunicorn&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**Database**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**ORM**
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=alembic&logoColor=white)
+
+**Authentication**
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**DevOps**
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux_(Ubuntu)-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+
+**VCS**
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+
+**CI/CD**
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=D24939)
+
+**Cloud**
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-000000?style=for-the-badge&logo=amazonec2&logoColor=FF9900)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-000000?style=for-the-badge&logo=amazons3&logoColor=FF9900)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-000000?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B)
+
+**Infrastructure as Code**
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=844FBA)
+
+**Code Quality & Security**
+![SonarQube](https://img.shields.io/badge/SonarQube-000000?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Trivy](https://img.shields.io/badge/Trivy-000000?style=for-the-badge&logo=aquasecurity&logoColor=1904DA)
+
+**API Testing**
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+**Design**
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+**Package Managers**
+![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=CB3837)
+![pip](https://img.shields.io/badge/pip-000000?style=for-the-badge&logo=pypi&logoColor=3775A9)
+
+**AI & ML**
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
+![TMDb API](https://img.shields.io/badge/TMDb_API-000000?style=for-the-badge&logo=themoviedatabase&logoColor=01B4E4)
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepeshharshan&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepeshharshan&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&layout=compact" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepeshharshan&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepeshharshan&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Deepeshharshan&theme=dark&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+<img src="https://streak-stats.demolab.com/?user=Deepeshharshan&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff" />
+</div>
+
+### Animated Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepeshharshan&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&area_color=ffffff" />
 </div>
 
 ---
 
-## Contribution Graph (Animated)
+## Contribution Snake
 
 <div align="center">
 <picture>
@@ -82,14 +132,14 @@ Reach me at deepeshharshan@gmail.com
 </picture>
 </div>
 
-<sub>Note: this renders only after the `snk.yml` workflow has run at least once and created the `output` branch.</sub>
+<sub>Renders after the <code>snk.yml</code> workflow has run once and created the <code>output</code> branch.</sub>
 
 ---
 
 ## GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Deepeshharshan&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Deepeshharshan&theme=onedark&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=4" />
 </div>
 
 ---
@@ -97,18 +147,10 @@ Reach me at deepeshharshan@gmail.com
 ## Top Contributed Repository
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepeshharshan&repo=Deepeshharshan&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepeshharshan&repo=Deepeshharshan&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 </div>
 
-<sub>Replace `repo=Deepeshharshan` above with your actual top project's repo name — this pinned-repo card is a more reliable alternative to the deprecated contributor-stats widget.</sub>
-
----
-
-## Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
-</div>
+<sub>Swap <code>repo=Deepeshharshan</code> for your actual top project's repo name.</sub>
 
 ---
 
