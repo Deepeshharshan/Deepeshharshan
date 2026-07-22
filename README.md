@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- Optional: add a banner image here -->
-<!-- <img src="your-banner-url.png" width="100%"/> -->
-
 # Hi, I'm Deepesh Harshan
 ### Frontend-focused Developer | Building clean, scalable web experiences
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+TypeScript+Developer;Building+full-stack+web+apps;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+TypeScript+Developer;Building+full-stack+web+apps;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 </div>
 
@@ -65,8 +62,8 @@ Reach me at deepeshharshan@gmail.com
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=Deepeshharshan&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Deepeshharshan&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&layout=compact" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepeshharshan&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepeshharshan&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&layout=compact" />
 </div>
 
 <div align="center">
@@ -78,30 +75,40 @@ Reach me at deepeshharshan@gmail.com
 ## Contribution Graph (Animated)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Deepeshharshan/Deepeshharshan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepeshharshan/Deepeshharshan/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepeshharshan/Deepeshharshan/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Deepeshharshan/Deepeshharshan/output/dist/github-contribution-grid-snake.svg" />
+</picture>
 </div>
+
+<sub>Note: this renders only after the `snk.yml` workflow has run at least once and created the `output` branch.</sub>
 
 ---
 
 ## GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Deepeshharshan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Deepeshharshan&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
+
+---
+
+## Top Contributed Repository
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepeshharshan&repo=Deepeshharshan&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" />
+</div>
+
+<sub>Replace `repo=Deepeshharshan` above with your actual top project's repo name — this pinned-repo card is a more reliable alternative to the deprecated contributor-stats widget.</sub>
 
 ---
 
 ## Dev Quote
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
 </div>
-
----
-
-## Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Deepeshharshan&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 ---
 
