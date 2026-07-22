@@ -33,73 +33,52 @@ Reach me at deepeshharshan@gmail.com
 ## Tech I Use
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql&theme=dark" />
 
 **Frontend**
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 
 **Backend / Server**
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-000000?style=for-the-badge&logo=gunicorn&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socket.io&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" />
 
 **Database**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" />
 
 **ORM**
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=alembic&logoColor=white)
+<img src="https://skillicons.dev/icons?i=sqlalchemy&theme=dark" />
 
 **Authentication**
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<img src="https://skillicons.dev/icons?i=jwt&theme=dark" />
 
 **DevOps**
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux_(Ubuntu)-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+<img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" />
 
 **VCS**
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 
 **CI/CD**
-![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=D24939)
+<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" />
 
 **Cloud**
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-000000?style=for-the-badge&logo=amazonec2&logoColor=FF9900)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-000000?style=for-the-badge&logo=amazons3&logoColor=FF9900)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-000000?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B)
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
 
 **Infrastructure as Code**
-![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=844FBA)
+<img src="https://skillicons.dev/icons?i=terraform&theme=dark" />
 
 **Code Quality & Security**
-![SonarQube](https://img.shields.io/badge/SonarQube-000000?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-![Trivy](https://img.shields.io/badge/Trivy-000000?style=for-the-badge&logo=aquasecurity&logoColor=1904DA)
+<img src="https://skillicons.dev/icons?i=sonarqube&theme=dark" />
 
 **API Testing**
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" />
 
 **Design**
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 
 **Package Managers**
-![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=CB3837)
-![pip](https://img.shields.io/badge/pip-000000?style=for-the-badge&logo=pypi&logoColor=3775A9)
+<img src="https://skillicons.dev/icons?i=npm,pypi&theme=dark" />
 
 **AI & ML**
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
-![TMDb API](https://img.shields.io/badge/TMDb_API-000000?style=for-the-badge&logo=themoviedatabase&logoColor=01B4E4)
+<img src="https://skillicons.dev/icons?i=openai&theme=dark" />
 
 ---
 
