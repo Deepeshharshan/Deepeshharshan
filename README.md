@@ -38,7 +38,7 @@ Reach me at deepeshharshan@gmail.com
 <img src="https://cdn.simpleicons.org/javascript" width="42" height="42" title="JavaScript" />
 <img src="https://cdn.simpleicons.org/typescript" width="42" height="42" title="TypeScript" />
 <img src="https://cdn.simpleicons.org/html5" width="42" height="42" title="HTML5" />
-<img src="https://cdn.simpleicons.org/css3" width="42" height="42" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" title="CSS3" />
 <img src="https://cdn.simpleicons.org/mysql" width="42" height="42" title="SQL" />
 <img src="https://cdn.simpleicons.org/react" width="42" height="42" title="React" />
 <img src="https://cdn.simpleicons.org/nextdotjs" width="42" height="42" title="Next.js" />
@@ -56,17 +56,15 @@ Reach me at deepeshharshan@gmail.com
 <img src="https://cdn.simpleicons.org/git" width="42" height="42" title="Git" />
 <img src="https://cdn.simpleicons.org/github" width="42" height="42" title="GitHub" />
 <img src="https://cdn.simpleicons.org/jenkins" width="42" height="42" title="Jenkins" />
-<img src="https://cdn.simpleicons.org/amazonec2" width="42" height="42" title="AWS EC2" />
-<img src="https://cdn.simpleicons.org/amazons3" width="42" height="42" title="Amazon S3" />
-<img src="https://cdn.simpleicons.org/amazoncloudwatch" width="42" height="42" title="CloudWatch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="42" height="42" title="AWS EC2 / S3 / CloudWatch" />
 <img src="https://cdn.simpleicons.org/terraform" width="42" height="42" title="Terraform" />
-<img src="https://cdn.simpleicons.org/sonarqube" width="42" height="42" title="SonarQube" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="42" height="42" title="SonarQube" />
 <img src="https://cdn.simpleicons.org/trivy" width="42" height="42" title="Trivy" />
 <img src="https://cdn.simpleicons.org/postman" width="42" height="42" title="Postman" />
 <img src="https://cdn.simpleicons.org/figma" width="42" height="42" title="Figma" />
 <img src="https://cdn.simpleicons.org/npm" width="42" height="42" title="npm" />
 <img src="https://cdn.simpleicons.org/pypi" width="42" height="42" title="pip" />
-<img src="https://cdn.simpleicons.org/openai" width="42" height="42" title="Prompt Engineering (OpenAI)" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="42" height="42" title="Prompt Engineering (OpenAI)" />
 <img src="https://cdn.simpleicons.org/themoviedatabase" width="42" height="42" title="TMDb API" />
 
 </div>
