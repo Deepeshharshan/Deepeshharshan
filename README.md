@@ -97,20 +97,9 @@ To enable the snake animation:
 
 <p align="center">
 
-<a href="https://www.instagram.com/dxeepxsh" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/deepesh-harshan-1750083ab" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.reddit.com/u/deepesh_harshan" target="_blank">
-<img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>
-
-<a href="https://x.com/deepeshharshan" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="mailto:deepeshharshan@gmail.com">
