@@ -83,32 +83,12 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 <h2 align="center">GitHub Analytics</h2>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Deepeshharshan&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 </p>
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepeshharshan&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true"/>
 </p>
-
-<h2 align="center">Contribution Graph</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepeshharshan/Deepeshharshan/output/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepeshharshan/Deepeshharshan/output/dist/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Deepeshharshan/Deepeshharshan/output/dist/github-contribution-grid-snake.svg" alt="Snake animation">
-  </picture>
-</p>
-
-<!--
-To enable the snake animation:
-1. Add the .github/workflows/snk.yml workflow to this repo (already provided separately).
-2. It uses Platane/snk to generate the SVG on a schedule.
-3. It auto-commits into the `output` branch — no manual commit needed once set up.
--->
-
 <h2 align="center">Let's Connect</h2>
 
 <p align="center">
